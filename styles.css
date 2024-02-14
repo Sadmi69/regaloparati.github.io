@@ -1,3 +1,4 @@
+
 #envelope {
   margin: 150px;
   position: relative;
@@ -188,7 +189,6 @@
   -webkit-animation-delay: 0.7s;
           animation-delay: 0.7s;
 }
-
 @-webkit-keyframes slideUp {
   0% {
     top: 0;
@@ -257,3 +257,79 @@ body {
   background-color: #fc9d9d;
   color: #a10000;
 }
+#mostrarImagen1 {
+  position: absolute;
+  top: 80%; /* Alinea la parte superior de la imagen al centro verticalmente */
+  left: 50%; /* Alinea la izquierda de la imagen al centro horizontalmente */
+  transform: translate(-50%, -50%); /* Centra completamente la imagen */
+  max-width: 30%; /* Establece un ancho máximo del 80% del contenedor */
+  max-height: 30vh; /* Establece una altura máxima del 80% del viewport height */
+  border: 2px solid #ff5757; /* Agrega un borde alrededor de la imagen */
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.3); /* Agrega una sombra para destacar la imagen */
+}
+#mostrarImagen2 {
+  position: absolute;
+  top: 75%; /* Alinea la parte superior de la imagen al centro verticalmente */
+  left: 27%; /* Alinea la izquierda de la imagen al centro horizontalmente */
+  transform: translate(-50%, -50%); /* Centra completamente la imagen */
+  max-width: 50%; /* Establece un ancho máximo del 80% del contenedor */
+  max-height: 40vh; /* Establece una altura máxima del 80% del viewport height */
+  border: 2px solid #ff5757; /* Agrega un borde alrededor de la imagen */
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.3); /* Agrega una sombra para destacar la imagen */
+}
+
+#mostrarImagen3 {
+  position: absolute;
+  top: 30%; /* Alinea la parte superior de la imagen al centro verticalmente */
+  left: 30%; /* Alinea la izquierda de la imagen al centro horizontalmente */
+  transform: translate(-50%, -50%); /* Centra completamente la imagen */
+  max-width: 40%; /* Establece un ancho máximo del 80% del contenedor */
+  max-height: 30vh; /* Establece una altura máxima del 80% del viewport height */
+  border: 2px solid #ff5757; /* Agrega un borde alrededor de la imagen */
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.3); /* Agrega una sombra para destacar la imagen */
+}
+
+#mostrarImagen4 {
+  position: absolute;
+  top: 50%; /* Alinea la parte superior de la imagen al centro verticalmente */
+  left: 90%; /* Alinea la izquierda de la imagen al centro horizontalmente */
+  transform: translate(-50%, -50%); /* Centra completamente la imagen */
+  max-width: 30%; /* Establece un ancho máximo del 80% del contenedor */
+  max-height: 41vh; /* Establece una altura máxima del 80% del viewport height */
+  border: 2px solid #ff5757; /* Agrega un borde alrededor de la imagen */
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.3); /* Agrega una sombra para destacar la imagen */
+}
+
+#mostrarImagen5 {
+  position: absolute;
+  top: 30%; /* Alinea la parte superior de la imagen al centro verticalmente */
+  left: 70%; /* Alinea la izquierda de la imagen al centro horizontalmente */
+  transform: translate(-50%, -50%); /* Centra completamente la imagen */
+  max-width: 40%; /* Establece un ancho máximo del 80% del contenedor */
+  max-height: 30vh; /* Establece una altura máxima del 80% del viewport height */
+  border: 2px solid #ff5757; /* Agrega un borde alrededor de la imagen */
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.3); /* Agrega una sombra para destacar la imagen */
+}
+
+#mostrarImagen6 {
+  position: absolute;
+  top: 50%; /* Alinea la parte superior de la imagen al centro verticalmente */
+  left: 10%; /* Alinea la izquierda de la imagen al centro horizontalmente */
+  transform: translate(-50%, -50%); /* Centra completamente la imagen */
+  max-width: 30%; /* Establece un ancho máximo del 80% del contenedor */
+  max-height: 40vh; /* Establece una altura máxima del 80% del viewport height */
+  border: 2px solid #ff5757; /* Agrega un borde alrededor de la imagen */
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.3); /* Agrega una sombra para destacar la imagen */
+}
+
+#mostrarImagen7 {
+  position: absolute;
+  top: 75%; /* Alinea la parte superior de la imagen al centro verticalmente */
+  left: 72%; /* Alinea la izquierda de la imagen al centro horizontalmente */
+  transform: translate(-50%, -50%); /* Centra completamente la imagen */
+  max-width: 20%; /* Establece un ancho máximo del 80% del contenedor */
+  max-height: 40vh; /* Establece una altura máxima del 80% del viewport height */
+  border: 2px solid #ff5757; /* Agrega un borde alrededor de la imagen */
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.3); /* Agrega una sombra para destacar la imagen */
+}
+
