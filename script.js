@@ -4,7 +4,7 @@ document.getElementById('abrirRegalo').addEventListener('click', function() {
   
     // Crea elementos de tulipanes y gatos
     var tulipanes = document.createElement('img');
-    tulipanes.src = 'tulipanes.gif';  // Reemplaza 'ruta/tulipanes.gif' con la ruta correcta de tu imagen de tulipanes
+    tulipanes.src = 'https://github.com/Sadmi69/regaloparati.github.io/blob/main/script.js';  // Reemplaza 'ruta/tulipanes.gif' con la ruta correcta de tu imagen de tulipanes
     tulipanes.alt = 'Tulipanes';
     tulipanes.style.width = '300px';
   
